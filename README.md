@@ -1,9 +1,9 @@
-# experiment_false_consensus_2020
+# false_consensus_2020
 
 Supplementary material 
 
 
-analysis_...    -> R code for analyis
+analysis_...    -> R code for analysis
 
 data_...        -> Raw data in .csv format
 
